@@ -16,3 +16,5 @@ C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter05\Chapter05\PeopleA
 C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter05\Chapter05\PeopleApp\obj\Debug\net6.0\PeopleApp.pdb
 C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter05\Chapter05\PeopleApp\obj\Debug\net6.0\PeopleApp.genruntimeconfig.cache
 C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter05\Chapter05\PeopleApp\obj\Debug\net6.0\ref\PeopleApp.dll
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter05\Chapter05\PeopleApp\bin\Debug\net6.0\PacktLibraryModern.dll
+C:\Users\Devan\Documents\Repos\C# 10 and .NET 6 Book\Chapter05\Chapter05\PeopleApp\bin\Debug\net6.0\PacktLibraryModern.pdb
