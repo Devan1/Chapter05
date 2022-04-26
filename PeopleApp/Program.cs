@@ -167,4 +167,5 @@ foreach(object passenger in passengers)
         _                                               => 800M
     };
     WriteLine($"Flight costs {flightCost:C} for {passenger}");
+
 }
